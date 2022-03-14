@@ -1,5 +1,5 @@
 # BMI-Calculator
-Course: Computer Science 210 - Intro to Computer Programming
+Course: CSC 210
 
 Name: BMI Calculator
 
